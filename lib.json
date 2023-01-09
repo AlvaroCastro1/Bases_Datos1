@@ -1,0 +1,7 @@
+[
+    {"idLibro": "1", "titulo": "El principito", "Descripcion": "El principito es una eminencia de la literatura universal.", "anioPublicacion": "1943"},
+    {"idLibro": "2", "titulo": "El extranjero", "Descripcion": "Si hay algo que destaca en el estilo narrativo de esta novela es su sobriedad.", "anioPublicacion": "1942"},
+    {"idLibro": "3", "titulo": "1984", "Descripcion": "Es una de las novelas más importantes de su autor.", "anioPublicacion": "1949"},
+    {"idLibro": "4", "titulo": "Sapiens", "Descripcion": "Si te consideras incondicional de los ensayos, puede ser una buena oportunidad para engancharte a esta lectura ambiciosa.", "anioPublicacion": "2014"},
+    {"idLibro": "5", "titulo": "Un mundo feliz", "Descripcion": "Si te apetece disfrutar de una de las antiutopía futuristas más comentadas del siglo XX", "anioPublicacion": "1932"}
+]

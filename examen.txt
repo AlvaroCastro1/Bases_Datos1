@@ -1,0 +1,5 @@
+examen practico 
+a traves de un sistema de base de datos simple, realiza una relacion que te permite llevar el control
+de las facturas ya emitidas puesto apartir de ese documento se desea hacer consultas como conocer cual fue el 
+total factura en el mes de enero 2022, que cliente fue el mejor consumidor o los folios utilizados durante el año 2021
+
